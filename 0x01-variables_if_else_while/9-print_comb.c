@@ -12,7 +12,7 @@ int main(void)
 	for (a = 0; a < 10; a++)
 	{
 		putchar(a);
-		if (num == 9)
+		if (a == 9)
 			continue;
 		putchar(',');
 		putchar(' ');
