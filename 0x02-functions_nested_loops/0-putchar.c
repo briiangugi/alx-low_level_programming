@@ -2,11 +2,12 @@
 #include "main.h"
 
 /**
- * main - a program that prints _putchar, followed by a new line.
+ * main - Entry point
  *
- * Return: 0
+ * Description: write a program that prints "_putchar" followed by a new line.
+ *
+ * Return: zero
  */
-
 int main(void)
 {
 	_putchar('_');
